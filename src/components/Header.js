@@ -13,6 +13,7 @@ const Header = () => {
       <nav>
         <ul>
           <li>
+    abc
             <NavLink to="/">
               Anasayfa <TbHome />
             </NavLink>
